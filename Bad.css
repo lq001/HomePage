@@ -1,3 +1,15 @@
+#side-bar {
+    position: fixed;
+    top: 40px;
+    left: 8px;
+    padding: 12px;
+    width: 190px;
+    background-color: #8b0000;
+    border-radius: 0px;
+    color: #ff6433;
+    height: 100%;
+}
+
 #side-bar .side-bar-name {
     font-weight: 800;
     font-size: 30pt;
